@@ -1,0 +1,43 @@
+header a{
+    margin-left: 40px;
+    padding-left: 100px ;
+}
+header{
+    border: 3px solid white;
+}
+*{ 
+    background-color: rgb(196, 255, 250);
+}
+.header{
+    margin-left: 650px;
+    font-size:xx-large;
+}
+#logo{
+    height: 150px;
+}
+#pic{
+    height:200px ;
+    
+}
+.footer{
+    margin-left: 42%;
+}
+.z{
+    font-size:x-large;
+}
+.skills{
+    font-size:large;
+}
+.b{
+    font-size: larger;
+}
+.d{
+    font-size: larger;
+}
+.e{
+    font-size: larger;
+}
+.c{
+    margin-left:700px ;
+    font-size:x-large;
+}
